@@ -1,7 +1,7 @@
 # Snake_MATLAB
 Snake game using matlab. GUIDE project.
 
-## Foto de resultados 
+## Results 
 Using Tiva-C microcontroller as control for the game. It also works with keyboard.
 
 
