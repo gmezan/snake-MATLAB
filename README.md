@@ -2,7 +2,7 @@
 Snake game using matlab. GUIDE project.
 
 ## Results 
-Using Tiva-C microcontroller as control for the game. It also works with keyboard.
+Using Tiva-C microcontroller as remote for the game. It also works with keyboard.
 
 
 <img src="/photo1.JPG" width="350" height="500">
